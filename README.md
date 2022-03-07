@@ -6,7 +6,7 @@ If you wish to perform a similar analysis using yourown streaming data, you can 
 ## Downloading Spotify user data
 1.  Go to your Spotify Account Settings
 2.  Click on **Privacy Settings**
-3.  Under ** Download your data**, you can request for a copy of your most relevant personal data.
+3.  Under **Download your data**, you can request for a copy of your most relevant personal data.
 4.  Within 30 days, you will receive an email with directions to download your data.
 
 
